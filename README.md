@@ -1,8 +1,8 @@
 # pfd
-<b>
+<h1><b>
 NO LONGER MAINTAINING THIS PROJECT</B>
 THIS PROJECT WAS PORTED TO A THINGSPEAK BASED SOLUTON HERE: https://github.com/hattybin/pfd-ts
-REPOSITORY LEFT FOR REFERENCE
+REPOSITORY LEFT FOR REFERENCE</h1>
 
 -------------------------------------------
 
