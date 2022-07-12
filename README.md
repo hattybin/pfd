@@ -1,5 +1,11 @@
 # pfd
 
+NO LONGER MAINTAINING THIS PROJECT
+THIS PROJECT WAS PORTED TO A THINGSPEAK BASED SOLUTON HERE: https://github.com/hattybin/pfd-ts
+REPOSITORY LEFT FOR REFERENCE
+
+-------------------------------------------
+
 This project is a modification to a WoPet Dog Food Feeder to use a NodeMCU controller instead of the electronics it was sold with. I wanted a solution that didn't require cloud infrastructure and I one I could create APIs for to integrate into my other systems. The current prototype can trigger feeding via the webpage controls or a POST web request to /FEED or /STOP. 
 
 I spent most my time working out the electronics part and am using it currently since it is functional. I intend on adding more features and cleaning up the code as I have time.
